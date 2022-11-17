@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'nthu-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68B2583BF2904A48984B456B7777F5BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_030E67E368A548FD9222582310E8B0B0 }}
           package: .
